@@ -1,0 +1,8 @@
+D:\C#\ItCo\Exercises\ArraySort\ArraySort\bin\Debug\ArraySort.exe.config
+D:\C#\ItCo\Exercises\ArraySort\ArraySort\bin\Debug\ArraySort.exe
+D:\C#\ItCo\Exercises\ArraySort\ArraySort\bin\Debug\ArraySort.pdb
+D:\C#\ItCo\Exercises\ArraySort\ArraySort\obj\Debug\FirstExercise.csproj.AssemblyReference.cache
+D:\C#\ItCo\Exercises\ArraySort\ArraySort\obj\Debug\FirstExercise.csproj.SuggestedBindingRedirects.cache
+D:\C#\ItCo\Exercises\ArraySort\ArraySort\obj\Debug\FirstExercise.csproj.CoreCompileInputs.cache
+D:\C#\ItCo\Exercises\ArraySort\ArraySort\obj\Debug\ArraySort.exe
+D:\C#\ItCo\Exercises\ArraySort\ArraySort\obj\Debug\ArraySort.pdb

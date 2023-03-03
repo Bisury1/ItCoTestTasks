@@ -1,0 +1,8 @@
+D:\C#\ItCo\Exercises\ArraySort\ThirdTask\bin\Debug\ThirdTask.exe.config
+D:\C#\ItCo\Exercises\ArraySort\ThirdTask\bin\Debug\ThirdTask.exe
+D:\C#\ItCo\Exercises\ArraySort\ThirdTask\bin\Debug\ThirdTask.pdb
+D:\C#\ItCo\Exercises\ArraySort\ThirdTask\obj\Debug\ThirdTask.csproj.AssemblyReference.cache
+D:\C#\ItCo\Exercises\ArraySort\ThirdTask\obj\Debug\ThirdTask.csproj.SuggestedBindingRedirects.cache
+D:\C#\ItCo\Exercises\ArraySort\ThirdTask\obj\Debug\ThirdTask.csproj.CoreCompileInputs.cache
+D:\C#\ItCo\Exercises\ArraySort\ThirdTask\obj\Debug\ThirdTask.exe
+D:\C#\ItCo\Exercises\ArraySort\ThirdTask\obj\Debug\ThirdTask.pdb

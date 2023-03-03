@@ -1,0 +1,8 @@
+D:\C#\ItCo\Exercises\ArraySort\SecondExercise\bin\Debug\SecondExercise.exe.config
+D:\C#\ItCo\Exercises\ArraySort\SecondExercise\bin\Debug\SecondExercise.exe
+D:\C#\ItCo\Exercises\ArraySort\SecondExercise\bin\Debug\SecondExercise.pdb
+D:\C#\ItCo\Exercises\ArraySort\SecondExercise\obj\Debug\SecondExercise.csproj.AssemblyReference.cache
+D:\C#\ItCo\Exercises\ArraySort\SecondExercise\obj\Debug\SecondExercise.csproj.SuggestedBindingRedirects.cache
+D:\C#\ItCo\Exercises\ArraySort\SecondExercise\obj\Debug\SecondExercise.csproj.CoreCompileInputs.cache
+D:\C#\ItCo\Exercises\ArraySort\SecondExercise\obj\Debug\SecondExercise.exe
+D:\C#\ItCo\Exercises\ArraySort\SecondExercise\obj\Debug\SecondExercise.pdb
